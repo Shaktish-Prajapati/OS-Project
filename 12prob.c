@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<pthread.h>
-public void*(void *n)
+
 {
 
 }
