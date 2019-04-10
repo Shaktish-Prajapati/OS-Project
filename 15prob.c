@@ -1,8 +1,6 @@
 #include<stdio.h>
-#include<pthread.h>
-public void *nm(void *m)
-{
-}
+//#include<pthread.h>
+
 int main()
 {
 return 0;
