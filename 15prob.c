@@ -1,3 +1,4 @@
+//CPU schedules N processes which arrive at different time intervals and each process is allocated the CPU...
 #include<stdio.h>
 #include<fcntl.h>
 typedef struct 
